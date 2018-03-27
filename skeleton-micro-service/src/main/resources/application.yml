@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: skeleton-micro-service
-      
-server:
-  port: 0
