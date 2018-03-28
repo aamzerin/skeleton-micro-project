@@ -1,4 +1,4 @@
-package io.aamzerin.microservices.start;
+package io.aamzerin.micro.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
